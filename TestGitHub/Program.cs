@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 int a = 0;
+
+Console.WriteLine(a + '0');
